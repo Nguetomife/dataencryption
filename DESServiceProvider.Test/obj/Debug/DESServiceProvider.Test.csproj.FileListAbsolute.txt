@@ -1,0 +1,11 @@
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\DESServiceProvider.Test.dll
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\DESServiceProvider.Test.pdb
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\DataEncryptionStandardServiceProvider.dll
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\CuttingEdge.Conditions.dll
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\DataEncryptionStandardServiceProvider.pdb
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\bin\Debug\CuttingEdge.Conditions.xml
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\obj\Debug\DESServiceProvider.Test.csprojResolveAssemblyReference.cache
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\obj\Debug\DESServiceProvider.Test.dll
+D:\Workspace\SDMC\DataEncryptionStandardServiceProvider\DESServiceProvider.Test\obj\Debug\DESServiceProvider.Test.pdb

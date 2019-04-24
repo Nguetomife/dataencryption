@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>DataEncryptionStandardServiceProvider</id>
+    <version>1.0.0</version>
+    <authors>Michel Nguenkam Toko</authors>
+    <owners>Siemens AG</owners>
+    <licenseUrl>no licence is needed </licenseUrl>
+    <projectUrl>http://www.automation.siemens.com</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>decrypts and encrypts critical data such as authentications or other informations you don't want to expose it.
+	 the application uses the DES-CBC-cipher with explicit Initialization Verctor (IV) cryptography algorithm
+	</description>
+    <releaseNotes>Please be sured that cryptography is allowed in your region </releaseNotes>
+    <copyright>Copyright (c) Siemens AG. All rights reserved 2017</copyright>
+    <tags></tags>
+    <dependencies>
+      <dependency id="CuttingEdge.Conditions.1.2.0.0" version="1.2.0.0" />
+	  <dependency id="NuGet.CommandLine.3.5.0" version="3.5.0" />
+	  <dependency id="StyleCopFile.1.0.1" version="1.0.1" />
+    </dependencies>
+  </metadata>
+</package>
